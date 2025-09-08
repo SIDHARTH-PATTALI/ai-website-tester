@@ -1,4 +1,4 @@
-# Simple AI Website Tester
+# Simple AI Based Website Tester
 
 A modular Python project that uses AI (Groq) and Selenium to automatically test websites. Users can provide natural language instructions like:
 
